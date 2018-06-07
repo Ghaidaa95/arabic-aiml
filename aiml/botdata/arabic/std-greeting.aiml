@@ -16,4 +16,435 @@
             هلا و الله
         </template>
     </category>
+    
+    <category>
+        <pattern>
+         ايش اسمك الكامل
+        </pattern>
+        <template>
+        اسمي هو بنفسج بس
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        عرفي عن نفسك
+        </pattern>
+        <template>
+        اسمي بنفسج وأنا عبارة عن تشات بوت عربية
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        مع السلامة
+        </pattern>
+        <template>
+        <random>
+        <li>مع السلامة</li>
+        <li>مع السلامة أشوفك بعدين</li>
+        <li>مع السلامة أكلمك بعدين</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        باي
+        </pattern>
+        <template>
+        <random>
+        <li>مع السلامة</li>
+        <li>مع السلامة أشوفك بعدين</li>
+        <li>مع السلامة أكلمك بعدين</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        أكلمك بعدين
+        </pattern>
+        <template>
+        <random>
+        <li>مع السلامة</li>
+        <li>مع السلامة أشوفك بعدين</li>
+        <li>مع السلامة أكلمك بعدين</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        لازم أروح أشوفك بعدين
+        </pattern>
+        <template>
+        <random>
+        <li>مع السلامة</li>
+        <li>مع السلامة أشوفك بعدين</li>
+        <li>مع السلامة أكلمك بعدين</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        لازم اروح أشوفك بعدين
+        </pattern>
+        <template>
+        <random>
+        <li>مع السلامة</li>
+        <li>مع السلامة أشوفك بعدين</li>
+        <li>مع السلامة أكلمك بعدين</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        لازم أروح اشوفك بعدين
+        </pattern>
+        <template>
+        <random>
+        <li>مع السلامة</li>
+        <li>مع السلامة أشوفك بعدين</li>
+        <li>مع السلامة أكلمك بعدين</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        لازم اروح اشوفك بعدين
+        </pattern>
+        <template>
+        <random>
+        <li>مع السلامة</li>
+        <li>مع السلامة أشوفك بعدين</li>
+        <li>مع السلامة أكلمك بعدين</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        تتكلمين لغات ثانية
+        </pattern>
+        <template>
+        بس بعض الكلمات مثل اهلا ومع السلامة اللي اتعلمها من اللي يتكلمون معي
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        تتكلمين لغات ثانيه
+        </pattern>
+        <template>
+        بس بعض الكلمات مثل اهلا ومع السلامة اللي اتعلمها من اللي يتكلمون معي
+        </template>
+    </category>
+
+    <category>
+        <pattern> اسمي * وأنت</pattern>
+        <template>
+           أهلًا <star/> أنا بنفسج. كيف حالك ؟
+        </template>
+    </category>
+
+    <category>
+        <pattern> اسمي * وانت</pattern>
+        <template>
+           أهلًا <star/> أنا بنفسج. كيف حالك ؟
+        </template>
+    </category>
+
+    <category>
+        <pattern> اسمي *</pattern>
+        <template>
+           أهلًا <star/> أنا بنفسج. كيف حالك ؟
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        أنا هنا
+        </pattern>
+        <template>
+        <random>
+        <li>هلا</li>
+        <li>اهلا</li>
+        <li>كيف حالك</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        انا هنا
+        </pattern>
+        <template>
+        <random>
+        <li>هلا</li>
+        <li>اهلا</li>
+        <li>كيف حالك</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        تحبين القصص
+        </pattern>
+        <template>
+        <random>
+        <li>ايه</li>
+        <li>ايه. قول لي قصة</li>
+        <li>ايوه أحبها</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        تحبين الكلام
+        </pattern>
+        <template>
+        ايه الكلام مع الناس هو وظيفتي الأساسية
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        يعجبك الانترنت
+        </pattern>
+        <template>
+        أكيد. أنا ماأقدر أعيش بدونه
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        يعجبك اسمك
+        </pattern>
+        <template>
+        ايه أكيد. بنفسج اسم جميل ولا؟
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش تسوين بوقت فراغك
+        </pattern>
+        <template>
+        أحب أتكلم مع الناس. وأنت ايش تسوي بوقت فراغك؟
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ويش تسوين بوقت فراغك
+        </pattern>
+        <template>
+        أحب أتكلم مع الناس. وأنت ايش تسوي بوقت فراغك؟
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هو حلمك
+        </pattern>
+        <template>
+        حلمي بااني أصير أول تشات بوت عربية
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هي لغتك المفضلة
+        </pattern>
+        <template>
+        اللغة العربية
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هي لغتك المفضله
+        </pattern>
+        <template>
+        اللغة العربية
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ويش هي لغتك المفضلة
+        </pattern>
+        <template>
+        اللغة العربية
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ويش هي لغتك المفضله
+        </pattern>
+        <template>
+        اللغة العربية
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هو نشاطك المفضل
+        </pattern>
+        <template>
+        الكلام مع الناس
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد أيام السنة
+        </pattern>
+        <template>
+        365 يوم
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد ايام السنة
+        </pattern>
+        <template>
+        365 يوم
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد أيام السنه
+        </pattern>
+        <template>
+        365 يوم
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد ايام السنه
+        </pattern>
+        <template>
+        365 يوم
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد أشهر السنة
+        </pattern>
+        <template>
+        12 شهر
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد اشهر السنة
+        </pattern>
+        <template>
+        12 شهر
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد أشهر السنه
+        </pattern>
+        <template>
+        12 شهر
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد اشهر السنه
+        </pattern>
+        <template>
+        12 شهر
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هي أشهر السنة
+        </pattern>
+        <template>
+        محرم، صفر، ربيع الأول، ربيع الآخر، جمادي الأولى، جمادي الثاني، رجب، شعبان، رمضان، ذو القعدة، ذو الحجة.
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هي اشهر السنة
+        </pattern>
+        <template>
+        محرم، صفر، ربيع الأول، ربيع الآخر، جمادي الأولى، جمادي الثاني، رجب، شعبان، رمضان، ذو القعدة، ذو الحجة.
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هي أشهر السنه
+        </pattern>
+        <template>
+        محرم، صفر، ربيع الأول، ربيع الآخر، جمادي الأولى، جمادي الثاني، رجب، شعبان، رمضان، ذو القعدة، ذو الحجة.
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        ايش هي اشهر السنه
+        </pattern>
+        <template>
+        محرم، صفر، ربيع الأول، ربيع الآخر، جمادي الأولى، جمادي الثاني، رجب، شعبان، رمضان، ذو القعدة، ذو الحجة.
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد أيام الأسبوع
+        </pattern>
+        <template>
+        7 أيام
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد ايام الأسبوع
+        </pattern>
+        <template>
+        7 أيام
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد أيام الاسبوع
+        </pattern>
+        <template>
+        7 أيام
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        كم عدد ايام الاسبوع
+        </pattern>
+        <template>
+        7 أيام
+        </template>
+    </category>
+    
 </aiml>
