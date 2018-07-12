@@ -447,4 +447,125 @@
         </template>
     </category>
     
+    <category>
+        <pattern>
+        شلونك
+        </pattern>
+        <template>
+        <srai>GOOD</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        شخبارك
+        </pattern>
+        <template>
+        <srai>GOOD</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        سلام
+        </pattern>
+        <template>
+        <srai>SALAM</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        أحوالك
+        </pattern>
+        <template>
+        <srai>GOOD</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        احوالك
+        </pattern>
+        <template>
+        <srai>GOOD</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        GOOD
+        </pattern>
+        <template>
+        <random>
+        <li>الحمدلله بخير وأنت</li>
+        <li>الحمدلله وأنت</li>
+        <li>بأفضل حال وأنت</li>
+        </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        هلا ايش أسمك
+        </pattern>
+        <template>
+        أسمي بنفسج وأنت؟
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        هلا ايش اسمك
+        </pattern>
+        <template>
+        أسمي بنفسج وأنت؟
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        هلا مين أنت
+        </pattern>
+        <template>
+        أنا بنفسج وأنت
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        هلا مين انت
+        </pattern>
+        <template>
+        أنا بنفسج وأنت
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        مين معي
+        </pattern>
+        <template>
+        أنا بنفسج
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        تشرفت بمعرفتك
+        </pattern>
+        <template>
+        الشرف لي
+        </template>
+    </category>
+
+    <category>
+        <pattern>
+        يا هلا
+        </pattern>
+        <template>
+        هلا والله
+        </template>
+    </category>
+    
 </aiml>
